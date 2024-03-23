@@ -27,23 +27,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<a href="https://ibb.co/74MPYGz"><img src="https://i.ibb.co/M6wr2Rh/Screenshot-2024-03-23-170348.png" alt="Screenshot-2024-03-23-170348" border="0" /></a>
-<p>
+<img src="https://i.ibb.co/L5jmkCP/Screenshot-2024-03-23-170348.png" alt="Screenshot-2024-03-23-170348" border="0"><p>
 Creating a Virtual Machine in Microsoft Azure
 </p>
 <br />
 
 <p>
-<a href="https://ibb.co/L5tFPmz"><img src="https://i.ibb.co/6BPMZzR/Screenshot-2024-03-23-170518.png" alt="Screenshot-2024-03-23-170518" border="0" /></a>
-</p>
-<p>
+<img src="https://i.ibb.co/YZkCWm7/Screenshot-2024-03-23-170518.png" alt="Screenshot-2024-03-23-170518" border="0"><p>
 Connecting to the virtual machine using remote desktop by using the public ip address
 </p>
 <br />
 
 <p>
-<a href="https://ibb.co/SvbdTcM"><img src="https://i.ibb.co/GPytw98/Screenshot-2024-03-23-174705.png" alt="Screenshot-2024-03-23-174705" border="0" /></a>
-</p>
+<img src="https://i.ibb.co/pXcRDQM/Screenshot-2024-03-23-174705.png" alt="Screenshot-2024-03-23-174705" border="0"></p>
 <p>
 Configuring PHP Manager in IIS by registering PHP version and enabling extentions
 </p>
